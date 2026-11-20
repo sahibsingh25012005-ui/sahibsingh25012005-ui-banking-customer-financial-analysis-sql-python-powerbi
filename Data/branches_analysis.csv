@@ -1,0 +1,121 @@
+branch_id,branch_name,city,state,branch_type
+B0001,Branch 0001,Amritsar,Punjab,Semi-Urban
+B0002,Branch 0002,Gurugram,Haryana,Urban
+B0003,Branch 0003,New Delhi,Delhi,Rural
+B0004,Branch 0004,Mumbai,Maharashtra,Semi-Urban
+B0005,Branch 0005,Ahmedabad,Gujarat,Urban
+B0006,Branch 0006,Jaipur,Rajasthan,Rural
+B0007,Branch 0007,Bengaluru,Karnataka,Semi-Urban
+B0008,Branch 0008,Chennai,Tamil Nadu,Semi-Urban
+B0009,Branch 0009,Lucknow,Uttar Pradesh,Urban
+B0010,Branch 0010,Kolkata,West Bengal,Urban
+B0011,Branch 0011,Ludhiana,Punjab,Urban
+B0012,Branch 0012,Faridabad,Haryana,Rural
+B0013,Branch 0013,Dwarka,Delhi,Semi-Urban
+B0014,Branch 0014,Pune,Maharashtra,Semi-Urban
+B0015,Branch 0015,Surat,Gujarat,Urban
+B0016,Branch 0016,Jodhpur,Rajasthan,Urban
+B0017,Branch 0017,Mysuru,Karnataka,Semi-Urban
+B0018,Branch 0018,Coimbatore,Tamil Nadu,Urban
+B0019,Branch 0019,Noida,Uttar Pradesh,Semi-Urban
+B0020,Branch 0020,Durgapur,West Bengal,Semi-Urban
+B0021,Branch 0021,Jalandhar,Punjab,Semi-Urban
+B0022,Branch 0022,Panipat,Haryana,Urban
+B0023,Branch 0023,Rohini,Delhi,Rural
+B0024,Branch 0024,Nagpur,Maharashtra,Rural
+B0025,Branch 0025,Vadodara,Gujarat,Semi-Urban
+B0026,Branch 0026,Udaipur,Rajasthan,Urban
+B0027,Branch 0027,Mangaluru,Karnataka,Urban
+B0028,Branch 0028,Madurai,Tamil Nadu,Urban
+B0029,Branch 0029,Kanpur,Uttar Pradesh,Urban
+B0030,Branch 0030,Siliguri,West Bengal,Semi-Urban
+B0031,Branch 0031,Patiala,Punjab,Semi-Urban
+B0032,Branch 0032,Hisar,Haryana,Rural
+B0033,Branch 0033,Saket,Delhi,Urban
+B0034,Branch 0034,Nashik,Maharashtra,Urban
+B0035,Branch 0035,Rajkot,Gujarat,Urban
+B0036,Branch 0036,Kota,Rajasthan,Urban
+B0037,Branch 0037,Hubballi,Karnataka,Urban
+B0038,Branch 0038,Salem,Tamil Nadu,Urban
+B0039,Branch 0039,Agra,Uttar Pradesh,Urban
+B0040,Branch 0040,Howrah,West Bengal,Semi-Urban
+B0041,Branch 0041,Amritsar,Punjab,Urban
+B0042,Branch 0042,Gurugram,Haryana,Semi-Urban
+B0043,Branch 0043,New Delhi,Delhi,Semi-Urban
+B0044,Branch 0044,Mumbai,Maharashtra,Urban
+B0045,Branch 0045,Ahmedabad,Gujarat,Semi-Urban
+B0046,Branch 0046,Jaipur,Rajasthan,Semi-Urban
+B0047,Branch 0047,Bengaluru,Karnataka,Urban
+B0048,Branch 0048,Chennai,Tamil Nadu,Urban
+B0049,Branch 0049,Lucknow,Uttar Pradesh,Semi-Urban
+B0050,Branch 0050,Kolkata,West Bengal,Urban
+B0051,Branch 0051,Ludhiana,Punjab,Urban
+B0052,Branch 0052,Faridabad,Haryana,Urban
+B0053,Branch 0053,Dwarka,Delhi,Semi-Urban
+B0054,Branch 0054,Pune,Maharashtra,Semi-Urban
+B0055,Branch 0055,Surat,Gujarat,Semi-Urban
+B0056,Branch 0056,Jodhpur,Rajasthan,Semi-Urban
+B0057,Branch 0057,Mysuru,Karnataka,Urban
+B0058,Branch 0058,Coimbatore,Tamil Nadu,Semi-Urban
+B0059,Branch 0059,Noida,Uttar Pradesh,Urban
+B0060,Branch 0060,Durgapur,West Bengal,Urban
+B0061,Branch 0061,Jalandhar,Punjab,Semi-Urban
+B0062,Branch 0062,Panipat,Haryana,Urban
+B0063,Branch 0063,Rohini,Delhi,Semi-Urban
+B0064,Branch 0064,Nagpur,Maharashtra,Semi-Urban
+B0065,Branch 0065,Vadodara,Gujarat,Semi-Urban
+B0066,Branch 0066,Udaipur,Rajasthan,Semi-Urban
+B0067,Branch 0067,Mangaluru,Karnataka,Semi-Urban
+B0068,Branch 0068,Madurai,Tamil Nadu,Urban
+B0069,Branch 0069,Kanpur,Uttar Pradesh,Urban
+B0070,Branch 0070,Siliguri,West Bengal,Urban
+B0071,Branch 0071,Patiala,Punjab,Urban
+B0072,Branch 0072,Hisar,Haryana,Urban
+B0073,Branch 0073,Saket,Delhi,Rural
+B0074,Branch 0074,Nashik,Maharashtra,Urban
+B0075,Branch 0075,Rajkot,Gujarat,Urban
+B0076,Branch 0076,Kota,Rajasthan,Urban
+B0077,Branch 0077,Hubballi,Karnataka,Urban
+B0078,Branch 0078,Salem,Tamil Nadu,Semi-Urban
+B0079,Branch 0079,Agra,Uttar Pradesh,Semi-Urban
+B0080,Branch 0080,Howrah,West Bengal,Semi-Urban
+B0081,Branch 0081,Amritsar,Punjab,Semi-Urban
+B0082,Branch 0082,Gurugram,Haryana,Urban
+B0083,Branch 0083,New Delhi,Delhi,Semi-Urban
+B0084,Branch 0084,Mumbai,Maharashtra,Urban
+B0085,Branch 0085,Ahmedabad,Gujarat,Urban
+B0086,Branch 0086,Jaipur,Rajasthan,Urban
+B0087,Branch 0087,Bengaluru,Karnataka,Semi-Urban
+B0088,Branch 0088,Chennai,Tamil Nadu,Urban
+B0089,Branch 0089,Lucknow,Uttar Pradesh,Urban
+B0090,Branch 0090,Kolkata,West Bengal,Urban
+B0091,Branch 0091,Ludhiana,Punjab,Urban
+B0092,Branch 0092,Faridabad,Haryana,Semi-Urban
+B0093,Branch 0093,Dwarka,Delhi,Urban
+B0094,Branch 0094,Pune,Maharashtra,Urban
+B0095,Branch 0095,Surat,Gujarat,Urban
+B0096,Branch 0096,Jodhpur,Rajasthan,Semi-Urban
+B0097,Branch 0097,Mysuru,Karnataka,Urban
+B0098,Branch 0098,Coimbatore,Tamil Nadu,Urban
+B0099,Branch 0099,Noida,Uttar Pradesh,Urban
+B0100,Branch 0100,Durgapur,West Bengal,Rural
+B0101,Branch 0101,Jalandhar,Punjab,Rural
+B0102,Branch 0102,Panipat,Haryana,Semi-Urban
+B0103,Branch 0103,Rohini,Delhi,Urban
+B0104,Branch 0104,Nagpur,Maharashtra,Rural
+B0105,Branch 0105,Vadodara,Gujarat,Semi-Urban
+B0106,Branch 0106,Udaipur,Rajasthan,Semi-Urban
+B0107,Branch 0107,Mangaluru,Karnataka,Urban
+B0108,Branch 0108,Madurai,Tamil Nadu,Urban
+B0109,Branch 0109,Kanpur,Uttar Pradesh,Urban
+B0110,Branch 0110,Siliguri,West Bengal,Rural
+B0111,Branch 0111,Patiala,Punjab,Urban
+B0112,Branch 0112,Hisar,Haryana,Urban
+B0113,Branch 0113,Saket,Delhi,Urban
+B0114,Branch 0114,Nashik,Maharashtra,Semi-Urban
+B0115,Branch 0115,Rajkot,Gujarat,Urban
+B0116,Branch 0116,Kota,Rajasthan,Rural
+B0117,Branch 0117,Hubballi,Karnataka,Semi-Urban
+B0118,Branch 0118,Salem,Tamil Nadu,Semi-Urban
+B0119,Branch 0119,Agra,Uttar Pradesh,Urban
+B0120,Branch 0120,Howrah,West Bengal,Semi-Urban
