@@ -28,28 +28,13 @@ reporting.
 ## Dataset Overview
 
 The project works with five related tables:
-
-  -----------------------------------------------------------------------
-  Table                               Description
-  ----------------------------------- -----------------------------------
-  `customers`                         Customer details such as customer
-                                      ID, age, gender, occupation, city,
-                                      and annual income
-
-  `accounts`                          Account details such as account
-                                      type, account status, account
-                                      balance, and branch ID
-
-  `branches`                          Branch information, including
-                                      branch name, city, and branch type
-
-  `transactions`                      Customer transaction records,
-                                      including transaction amount, date,
-                                      type, and channel
-
-  `loans`                             Loan records, including loan type,
-                                      loan amount, interest rate, and
-                                      loan status
+| Table | Description |
+|---|---|
+| `customers` | Customer details such as customer ID, age, gender, occupation, city, and annual income |
+| `accounts` | Account details such as account type, account status, account balance, and branch ID |
+| `branches` | Branch information, including branch name, city, and branch type |
+| `transactions` | Customer transaction records, including transaction amount, date, type, and channel |
+| `loans` | Loan records, including loan type, loan amount, interest rate, and loan status |
   -----------------------------------------------------------------------
 
 The dashboards show approximately **50K customers, 50K accounts, 300K
